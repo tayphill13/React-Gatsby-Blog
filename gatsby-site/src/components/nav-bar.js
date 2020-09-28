@@ -17,7 +17,7 @@ export default function NavBar() {
         {` `}
         <Link to="/blog">Blog</Link>
         {` `}
-        <Link to="/signin">Sign In</Link>
+        <Link to="/signIn">Sign In</Link>
         {` `}
         <Link to="/about">About</Link>
         {` `}
